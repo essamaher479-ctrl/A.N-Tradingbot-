@@ -1,3 +1,8 @@
+git clone https://github.com/yourusername/an-trading-bot.git
+cd an-trading-bot
+npm install
+npm run devnpm start
+http://localhost:3000
 # ⚡ A.N Trading Binary Signal Bot
 
 A.N Trading Bot is a **web-based trading signal generator** that analyzes simulated market data using **EMA** (Exponential Moving Average) and **RSI** (Relative Strength Index) indicators.  
